@@ -2,6 +2,7 @@
 
 ## 🎥 Project Demo
 👉 [Watch the demo video](https://drive.google.com/file/d/1ZRv4HtxRnImPunedjp-xHazl3Iz0uVZc/view)
+[![Demo Screenshot](./assets/demo.png)](https://drive.google.com/file/d/1ZRv4HtxRnImPunedjp-xHazl3Iz0uVZc/view)
 
 ---
 

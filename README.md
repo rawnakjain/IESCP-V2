@@ -2,7 +2,6 @@
 
 ## 🎥 Project Demo
 👉 [Watch the demo video](https://drive.google.com/file/d/1ZRv4HtxRnImPunedjp-xHazl3Iz0uVZc/view)
-[![Demo Screenshot](./assets/demo.png)](https://drive.google.com/file/d/1ZRv4HtxRnImPunedjp-xHazl3Iz0uVZc/view)
 
 ---
 
@@ -16,3 +15,13 @@ cd backend
 ./start_beat
 ./start_mailhog
 python3 app.py
+```
+
+### Frontend
+```bash
+cd frontend
+npm install
+npm run serve
+```
+[](http://localhost:8080)
+

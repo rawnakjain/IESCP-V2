@@ -1,6 +1,9 @@
 # IESCP V2
 
-https://drive.google.com/file/d/1ZRv4HtxRnImPunedjp-xHazl3Iz0uVZc/view?usp=drive_link
+<video width="320" height="240" controls>
+  <source src="https://drive.google.com/file/d/1ZRv4HtxRnImPunedjp-xHazl3Iz0uVZc/view?usp=drive_link" type="video/mp4">
+</video>
+
 
 to run the project do:
 

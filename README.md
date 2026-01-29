@@ -1,6 +1,6 @@
 # IESCP V2
 
-Video Demo: [Click Here](https://drive.google.com/file/d/1ZRv4HtxRnImPunedjp-xHazl3Iz0uVZc/view?usp=drive_link)
+https://drive.google.com/file/d/1ZRv4HtxRnImPunedjp-xHazl3Iz0uVZc/view?usp=drive_link
 
 to run the project do:
 

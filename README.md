@@ -1,5 +1,5 @@
 # IESCP V2
-<iframe src="https://drive.google.com/file/d/1ZRv4HtxRnImPunedjp-xHazl3Iz0uVZc/view?usp=drive_link" width="640" height="480" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1ZRv4HtxRnImPunedjp-xHazl3Iz0uVZc/preview" width="640" height="480"></iframe>
 
 to run the project do:
 

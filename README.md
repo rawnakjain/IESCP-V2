@@ -1,13 +1,17 @@
 # IESCP V2
-<iframe src="https://drive.google.com/file/d/1ZRv4HtxRnImPunedjp-xHazl3Iz0uVZc/preview" width="640" height="480"></iframe>
 
-to run the project do:
+## 🎥 Project Demo
+👉 [Watch the demo video](https://drive.google.com/file/d/1ZRv4HtxRnImPunedjp-xHazl3Iz0uVZc/view)
 
-- cd into backend `cd backend`
-- run the scripts `./start_redis`, `./start_celery`, `./start_beat`, `./start_mailhog`, `python3 app.py`
+---
 
-    These scripts will set up environment of backend and run all services
-- cd into frontend folder `cd frontend`
-- run `npm i` to install all packages
-- run `npm run serve` to run development server
-- go to `localhost:8080` to see app
+## 🚀 How to Run the Project
+
+### Backend
+```bash
+cd backend
+./start_redis
+./start_celery
+./start_beat
+./start_mailhog
+python3 app.py

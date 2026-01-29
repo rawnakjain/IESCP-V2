@@ -1,9 +1,5 @@
 # IESCP V2
-
-<video width="320" height="240" controls>
-  <source src="https://drive.google.com/file/d/1ZRv4HtxRnImPunedjp-xHazl3Iz0uVZc/view?usp=drive_link" type="video/mp4">
-</video>
-
+<iframe src="https://drive.google.com/file/d/1ZRv4HtxRnImPunedjp-xHazl3Iz0uVZc/view?usp=drive_link" width="640" height="480" allow="autoplay"></iframe>
 
 to run the project do:
 
